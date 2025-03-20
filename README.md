@@ -1,5 +1,7 @@
 # Shifter - Language Switcher Chrome Extension
 
+BEST FOR LOCAL DEVELOPMENT!!!
+
 Shifter is a Chrome extension that helps you manage language settings on websites. It detects language settings stored in both localStorage and sessionStorage and allows you to quickly switch between languages via the right-click context menu.
 
 ## Features
