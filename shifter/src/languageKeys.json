@@ -1,0 +1,10 @@
+{
+  "keys": [
+    "language",
+    "lang",
+    "locale",
+    "userLanguage",
+    "i18n.locale",
+    "currentLanguage"
+  ]
+} 

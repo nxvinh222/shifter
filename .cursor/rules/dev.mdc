@@ -1,0 +1,15 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Your rule content
+
+- Use Typescript as the main sources code
+- Always prefer simple solutions
+- Keep the codebase very clean and organized
+- Avoid having files over 100 lines of code. Refactor at that point. 
+- Write unit tests for major functionality with jest
+- Avoid making major changes to the patterns and architecture after it has shown to work well, unless told to do so
+- Always think about what other methods and areas of code might be affected by code changes
