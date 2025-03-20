@@ -1,3 +1,4 @@
 shifter/dist
 shifter/node_modules
 .cursor
+shifter/tests/temp-content-script.ts
